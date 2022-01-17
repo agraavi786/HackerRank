@@ -30,7 +30,7 @@ public class RepeatedString {
         }
         
         //System.out.println(c);
-        c=c*n/s.length()+c1;
+        c=c*(n/s.length())+c1;
         //System.out.println(c);
         return c;
     }
